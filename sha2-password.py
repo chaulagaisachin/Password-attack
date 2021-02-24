@@ -1,0 +1,1 @@
+# This code help you to compare hashes and crack password using Dictionary
